@@ -1,0 +1,11 @@
+exports/
+runtime/
+backups/
+logs/
+.env
+.env.*
+*.db
+*.db-wal
+*.db-shm
+*.log
+__pycache__/
